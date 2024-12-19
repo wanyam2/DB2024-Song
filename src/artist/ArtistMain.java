@@ -20,11 +20,11 @@ public class ArtistMain {
             System.out.println("NCTWISH 수정 실패!");
         }
 
-        System.out.println("\n아티스트 삭제:");
-        if (ArtistService.deleteById(1)) {
-            System.out.println("NCTWISH 삭제 성공!");
-        } else {
-            System.out.println("NCTWISH 삭제 실패!");
-        }
+//        System.out.println("\n아티스트 삭제:");
+//        if (ArtistService.deleteById(1)) {
+//            System.out.println("NCTWISH 삭제 성공!");
+//        } else {
+//            System.out.println("NCTWISH 삭제 실패!");
+//        }
     }
 }

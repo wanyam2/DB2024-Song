@@ -38,11 +38,11 @@ public class SongMain {
 
         System.out.println("---------------------------------------------------");
 
-        SongService.deleteById(1);
-        song = SongService.selectById(1);
-        if(song != null) {
-            System.out.println("곡 삭제에 실패했습니다.");
-        }
+//        SongService.deleteById(1);
+//        song = SongService.selectById(1);
+//        if(song != null) {
+//            System.out.println("곡 삭제에 실패했습니다.");
+//        }
     }
 
 }
