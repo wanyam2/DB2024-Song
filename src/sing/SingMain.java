@@ -19,7 +19,7 @@ public class SingMain {
             }
         }
 
-//        result = SingService.delete(1, 101);
+//        result = SingService.delete(1, 1);
 //        if (result > 0) {
 //            System.out.println("Sing record deleted successfully.");
 //        } else {
