@@ -140,7 +140,7 @@
 <img width="737" alt="스크린샷 2024-12-20 오전 11 11 11" src="https://github.com/user-attachments/assets/186de3bc-da30-45ac-bedc-65126b6134c3" />
 
 - **SingMain**
-<img width="737" alt="스크린샷 2024-12-20 오전 11 15 40" src="https://github.com/user-attachments/assets/30293808-7607-462d-9fe8-df88b91f2f77" />\
+<img width="737" alt="스크린샷 2024-12-20 오전 11 15 40" src="https://github.com/user-attachments/assets/30293808-7607-462d-9fe8-df88b91f2f77" />
 
 - **ReleaseMain**
 <img width="737" alt="스크린샷 2024-12-20 오전 11 14 49" src="https://github.com/user-attachments/assets/4ad249e2-4feb-4e55-8469-afb8541f1de0" />
