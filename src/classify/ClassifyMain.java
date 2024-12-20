@@ -6,9 +6,9 @@ public class ClassifyMain {
     public static void main(String[] args) {
         int result = ClassifyService.insert(1, "댄스");
         if (result > 0) {
-            System.out.println("Classify record inserted successfully.");
+            System.out.println("Classify 삽입 성공");
         } else {
-            System.out.println("Failed to insert Classify record.");
+            System.out.println("Classiy 삽입 실패");
         }
 
         List<Classify> classifies = ClassifyService.selectAll();
@@ -18,11 +18,11 @@ public class ClassifyMain {
             }
         }
 
-//        result = ClassifyService.delete(1, "댄스");
-//        if (result > 0) {
-//            System.out.println("Classify record deleted successfully.");
-//        } else {
-//            System.out.println("Failed to delete Classify record.");
-//        }
+        result = ClassifyService.delete(1, "댄스");
+        if (result > 0) {
+            System.out.println("Classify 삭제 성공");
+        } else {
+            System.out.println("Classify 삭제 실패");
+        }
     }
 }

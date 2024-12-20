@@ -6,9 +6,9 @@ public class ReleaseMain {
     public static void main(String[] args) {
         int result = ReleaseService.insert(1, 1);
         if (result > 0) {
-            System.out.println("Release record inserted successfully.");
+            System.out.println("Release 삽입 성공");
         } else {
-            System.out.println("Failed to insert Release record.");
+            System.out.println("삽입 실패");
         }
 
 
@@ -21,11 +21,11 @@ public class ReleaseMain {
         }
 
 
-//        result = ReleaseService.delete(1, 201);
-//        if (result > 0) {
-//            System.out.println("Release record deleted successfully.");
-//        } else {
-//            System.out.println("Failed to delete Release record.");
-//        }
+        result = ReleaseService.delete(1, 1);
+        if (result > 0) {
+            System.out.println("Release 삭제 성공");
+        } else {
+            System.out.println("삭제 실패");
+        }
     }
 }

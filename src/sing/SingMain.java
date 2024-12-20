@@ -7,9 +7,9 @@ public class SingMain {
         // Insert example
         int result = SingService.insert(1, 1);
         if (result > 0) {
-            System.out.println("Sing record inserted successfully.");
+            System.out.println("sing 삽입 성공");
         } else {
-            System.out.println("Failed to insert Sing record.");
+            System.out.println("sing 삽입 실패");
         }
 
         List<Sing> sings = SingService.selectAll();
@@ -19,11 +19,11 @@ public class SingMain {
             }
         }
 
-//        result = SingService.delete(1, 1);
-//        if (result > 0) {
-//            System.out.println("Sing record deleted successfully.");
-//        } else {
-//            System.out.println("Failed to delete Sing record.");
-//        }
+        result = SingService.delete(1, 1);
+        if (result > 0) {
+            System.out.println("sing 삭제 성공");
+        } else {
+            System.out.println("sing 삭제 실패");
+        }
     }
 }
