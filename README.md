@@ -148,3 +148,7 @@
 
 - **SingMain**
 <img width="737" alt="스크린샷 2024-12-20 오전 11 15 40" src="https://github.com/user-attachments/assets/30293808-7607-462d-9fe8-df88b91f2f77" />
+
+-----
+**MadeBy**
+@Hyehyun1001, @wanyam2
