@@ -124,6 +124,8 @@
 | 곡 ID               | song_id             | INTEGER        | N              |            | PK         | FK         |              |
 | 장르                | genre               | VARCHAR(10)    | N              |            | PK         |            |              |
 
+<br><br>
+
 ## SQL 테이블 생성
 <img width="519" alt="스크린샷 2024-12-20 오전 10 57 56" src="https://github.com/user-attachments/assets/1fd81966-66cd-47cd-8a9c-a2ceb2247e70" />
 <img width="519" alt="스크린샷 2024-12-20 오전 10 58 32" src="https://github.com/user-attachments/assets/4bb18615-7658-4e39-8d79-3e856719af24" />
