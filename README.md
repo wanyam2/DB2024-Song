@@ -1,4 +1,4 @@
-# DB2024-Song
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DB2024%20-%20Spotify&fontSize=50&animation=twinkling&text-color=black)
 
 ## 프로젝트 개요
 `DB2024-Song`은 가수, 곡, 앨범 정보를 관리하는 음악 스트리밍 플랫폼 데이터베이스 프로젝트입니다.   
@@ -164,3 +164,5 @@
 -----
 **MadeBy**
 @Hyehyun1001, @wanyam2
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
