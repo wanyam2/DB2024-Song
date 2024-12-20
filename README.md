@@ -123,3 +123,28 @@
 |---------------------|---------------------|----------------|----------------|------------|------------|------------|--------------|
 | 곡 ID               | song_id             | INTEGER        | N              |            | PK         | FK         |              |
 | 장르                | genre               | VARCHAR(10)    | N              |            | PK         |            |              |
+
+## SQL 테이블 생성
+<img width="519" alt="스크린샷 2024-12-20 오전 10 57 56" src="https://github.com/user-attachments/assets/1fd81966-66cd-47cd-8a9c-a2ceb2247e70" />
+<img width="519" alt="스크린샷 2024-12-20 오전 10 58 32" src="https://github.com/user-attachments/assets/4bb18615-7658-4e39-8d79-3e856719af24" />
+
+## 실행결과
+
+
+- **AlbumMain**
+<img width="519" alt="스크린샷 2024-12-20 오전 11 04 14" src="https://github.com/user-attachments/assets/be7ac453-c46f-4a6f-9fa7-683eb374146d" />
+
+- **ArtistMain**
+<img width="519" alt="스크린샷 2024-12-20 오전 11 06 58" src="https://github.com/user-attachments/assets/7301ce77-860d-4bfc-9e9e-124be27f11f4" />
+
+- **SongMain**
+<img width="737" alt="스크린샷 2024-12-20 오전 11 11 11" src="https://github.com/user-attachments/assets/186de3bc-da30-45ac-bedc-65126b6134c3" />
+
+- **ClassifyMain**
+<img width="737" alt="스크린샷 2024-12-20 오전 11 14 04" src="https://github.com/user-attachments/assets/664ce000-64c3-4b8c-8fe3-761ff783dc1f" />
+
+- **ReleaseMain**
+<img width="737" alt="스크린샷 2024-12-20 오전 11 14 49" src="https://github.com/user-attachments/assets/4ad249e2-4feb-4e55-8469-afb8541f1de0" />
+
+- **SingMain**
+<img width="737" alt="스크린샷 2024-12-20 오전 11 15 40" src="https://github.com/user-attachments/assets/30293808-7607-462d-9fe8-df88b91f2f77" />
