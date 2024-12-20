@@ -163,6 +163,6 @@
 
 -----
 **MadeBy**
-@Hyehyun1001, @wanyam2
+@Hyehyun1001(개체 테이블 작성, 리드미 작성) , @wanyam2(관계 테이블 작성, 리드미 작성)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
